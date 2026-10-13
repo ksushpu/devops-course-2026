@@ -1,5 +1,5 @@
 # Мой пет-проект
 
 Идея: ToDo-list
-Стек: React, Node.js
+Стек: React на TypeScript, Node.js
 Цель: Научиться работать с REST 
